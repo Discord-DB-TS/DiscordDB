@@ -1,0 +1,16 @@
+body{
+  margin:0;
+  background-color: #2F3136;
+}
+
+.top{
+  background-color: red;
+}
+
+img{
+  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:18%;
+}

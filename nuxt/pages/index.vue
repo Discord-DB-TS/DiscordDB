@@ -1,3 +1,8 @@
 <template>
-  <h1>Hello world!</h1>
-</template>
+  <div>
+    <div class="top">
+       <h1>^^'</h1>
+    </div>
+    <img src="~/assets/img/logoDiscord.png" />
+  </div>
+</template> 
