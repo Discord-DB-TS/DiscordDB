@@ -1,8 +1,8 @@
 <template>
   <div>
-    <div class="top">
-       <h1>^^'</h1>
-    </div>
+    <ul>
+      <li><a href="/"></a>Discord DB</li>
+    </ul>
     <img src="~/assets/img/logoDiscord.png" />
   </div>
 </template> 

@@ -1,16 +1,44 @@
 body{
   margin:0;
+  padding:0;
   background-color: #2F3136;
 }
 
-.top{
-  background-color: red;
-}
 
 img{
   width: 20%;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 39%;
   margin-top:18%;
+  position: relative;
+  animation: discordLogo 1s both;
+  animation-delay: 2s;
+}
+
+ul {
+  background-color: rgb(112, 112, 112);
+  overflow: hidden;
+  margin: 0;
+
+}
+
+li{
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 100px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+li:hover{
+  background-color: #ddd;
+  color: black;
+}
+
+
+@keyframes discordLogo {
+  from {opacity: 100%;}
+  to {opacity: 25%;}
 }
