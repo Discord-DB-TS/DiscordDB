@@ -1,2 +1,2 @@
 # DiscordDB
-Fast and reliable file storage
+LOI 101 AU QUÉBEC, ON PARLE FRANÇAIS AU TRAVAIL!!
