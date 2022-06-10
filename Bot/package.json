@@ -1,0 +1,10 @@
+{
+  "name": "@discordb/bot",
+  "version": "6.9.69",
+  "description": "Very good",
+  "main": "dist/discordb_bot_index_main.js",
+  "repository": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "author": "Chuck Norris",
+  "license": "Beerware",
+  "private": false
+}
