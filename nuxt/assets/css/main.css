@@ -4,15 +4,26 @@ body{
   background-color: #2F3136;
 }
 
+p{
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 32px;
+  font-size: 24px;
+  animation: start 0.5s both;
+  animation-delay: 1s;
+}
 
 img{
   width: 20%;
   display: block;
   margin-left: 39%;
-  margin-top:18%;
+  margin-top:8%;
   position: relative;
-  animation: discordLogo 1s both;
-  animation-delay: 2s;
+  animation: discordLogo 0.5s both;
+  animation-delay: 1s;
 }
 
 ul {
@@ -41,4 +52,9 @@ li:hover{
 @keyframes discordLogo {
   from {opacity: 100%;}
   to {opacity: 25%;}
+}
+
+@keyframes start{
+  from{opacity: 5%;}
+  to {opacity: 100%;}
 }
