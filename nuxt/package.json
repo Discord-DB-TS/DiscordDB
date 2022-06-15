@@ -1,10 +1,10 @@
 {
   "name": "nuxt",
   "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "generate": "nuxt generate",
-    "start": "nuxt start"
+    "dev": "nuxt --openssl-legacy-provider dev",
+    "build": "nuxt --openssl-legacy-provider build",
+    "generate": "nuxt --openssl-legacy-provider generate",
+    "start": "nuxt --openssl-legacy-provider start"
   },
   "dependencies": {
     "nuxt": "^2.15.8"
